@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../main.tsx"],
+  "sourcesContent": ["const ele = <div>1222323</div>;\n\nconsole.log(ele);"],
+  "mappings": "AAAA,IAAMA,EAAM,oBAAC,WAAI,SAAO,EAExB,QAAQ,IAAIA,CAAG",
+  "names": ["ele"]
+}
